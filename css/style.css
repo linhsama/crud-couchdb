@@ -1,0 +1,32 @@
+/* style.css */
+
+/* Add some styling to the body */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Add styling to the container */
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Add spacing to the form */
+#novelForm {
+    margin-bottom: 20px;
+}
+
+/* Add some spacing to the table */
+.table {
+    margin-top: 20px;
+}
+
+/* Style the loading modal */
+#loadingModal .modal-content {
+    text-align: center;
+}
+
+/* Add margin to the alert container */
+#alertContainer {
+    margin-bottom: 20px;
+}
